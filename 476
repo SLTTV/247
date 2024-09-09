@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1,Sony YAY HD
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-yay/index.ts
+#EXTINF:-1,Sony BBC Earth
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-bbc-earth-hd/index.ts
+#EXTINF:-1 group-title="01- News",GEO News
+http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",ARY News
+http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
+#EXTINF:-1 group-title="05- Lifestyle",Discovery HD
+http://dc.web-hostiger.com:8880/live/809469557884/TVSTARIPTV/325231.ts
+#EXTINF:-1,Sony Max FHD
+http://dc.web-hostiger.com:8880/live/809469557884/TVSTARIPTV/586712.ts
+#EXTINF:-1,ZEE Cinema FHD
+http://dc.web-hostiger.com:8880/live/809469557884/TVSTARIPTV/586713.ts
+#EXTINF:-1,HISTORY TV 18 FHD 3
+http://dc.web-hostiger.com:8880/live/809469557884/TVSTARIPTV/325187.ts
+#EXTINF:-1,HISTORY TV 18 FHD 4
+http://dc.web-hostiger.com:8880/live/809469557884/TVSTARIPTV/586731.ts
+#EXTINF:-1,HISTORY TV 18 FHD 1
+https://tgaadi-web.tech/portal.php?tv=1118065
+#EXTINF:-1,HISTORY TV 18 FHD 2
+https://tgaadi-web.tech/portal.php?tv=156018
+#EXTINF:-1,Star Sports 1 Hindi FHD
+https://tgaadi-web.tech/portal.php?tv=155967
+#EXTINF:-1 group-title="01- News",City 42
+http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",Lahore News
+http://125.209.88.166:45793/BRN/LahoreNewsHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",HUM News
+http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",GNN News
+http://125.209.88.166:45793/BRN/GNNHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",SAMA News
+http://125.209.88.166:45793/BRN/Sama.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",Dunya News
+http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",Dawn News
+http://125.209.88.166:45793/BRN/DawnNews.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",BOL News
+http://125.209.88.166:45793/BRN/BolNews.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",92 News
+http://125.209.88.166:45793/BRN/92News.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",GEO Tez
+http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",News One
+http://125.209.88.166:45793/BRN/NewsOne.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",PTV News
+http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
+#EXTINF:-1,PTV Home
+http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
+#EXTINF:-1,PTV Sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",NEO News
+http://125.209.88.166:45793/BRN/NeoNewsHD.stream/playlist.m3u8
+#EXTINF:-1,GreenTv
+http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
+#EXTINF:-1,ARY SPORTS
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1,TV One
+http://125.209.88.166:45793/BRN/TvOne.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",TRT World
+http://125.209.88.166:45793/BRN/TRTWorld.stream/playlist.m3u8
+#EXTINF:-1,Saudi Sunnah
+http://125.209.88.166:45793/BRN/SaudiSunnahHD.stream/playlist.m3u8
+#EXTINF:-1,Saudi Quran
+http://125.209.88.166:45793/BRN/SaudiQuranHD.stream/playlist.m3u8
+#EXTINF:-1,Peace TV
+http://125.209.88.166:45793/BRN/PeaceTvUrdu.stream/playlist.m3u8
+#EXTINF:-1,National Geographic HD
+http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
+#EXTINF:-1,Kids Zone HD
+http://125.209.88.166:45793/BRN/KidsZoneHD.stream/playlist.m3u8
+#EXTINF:-1,Film World
+http://125.209.88.166:45793/BRN/FilmWorld.stream/playlist.m3u8
+#EXTINF:-1,Express Entertainment
+http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
+#EXTINF:-1,BBC First
+http://125.209.88.166:45793/BRN/BBCFirstHD.stream/playlist.m3u8
+#EXTINF:-1,BBC Earth
+http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
+#EXTINF:-1,ARY Zindagi
+http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
+#EXTINF:-1,Ahlebait
+http://125.209.88.166:45793/BRN/AhlEBait.stream/playlist.m3u8
+#EXTINF:-1,Disney Channel
+http://125.209.88.166:45793/BRN/DisneyChannelHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",Sky News
+http://125.209.88.166:45793/BRN/SkyNews.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",CNN
+http://125.209.88.166:45793/BRN/CNNNews.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",Aljazeera HD
+http://125.209.88.166:45793/BRN/AlJazeerahHD.stream/playlist.m3u8
+#EXTINF:-1,URDU 1
+http://125.209.88.166:45793/BRN/Urdu1.stream/playlist.m3u8
+#EXTINF:-1,TEN Sports
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",RT News
+http://125.209.88.166:45793/BRN/RT.stream/playlist.m3u8
+#EXTINF:-1,HUM Masala
+http://125.209.88.166:45793/BRN/HumMasalah.stream/playlist.m3u8
+#EXTINF:-1,GEO Kahani
+http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
+#EXTINF:-1,GEO Entertainment
+http://125.209.88.166:45793/BRN/GeoEnt.stream/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8
+#EXTINF:-1,BOL Entertainment
+http://125.209.88.166:45793/BRN/BolEnt.stream/playlist.m3u8
+#EXTINF:-1,HUM TV
+http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="01- News",BBC World News
+http://125.209.88.166:45793/BRN/BBCWorld.stream/playlist.m3u8
+#EXTINF:-1,ARY Digital
+http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
